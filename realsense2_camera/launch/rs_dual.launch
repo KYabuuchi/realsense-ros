@@ -35,7 +35,7 @@
   <arg name="enable_right_infra2" default="true"/>
   <arg name="infra_width"         default="848"/>
   <arg name="infra_height"        default="480"/>
-  <arg name="infra_fps"           default="30"/>
+  <arg name="infra_fps"           default="15"/>
 
   <arg name="enable_emitter"      default="false"/>
 
